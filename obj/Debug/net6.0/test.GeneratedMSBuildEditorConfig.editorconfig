@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = test
 build_property.RootNamespace = test
-build_property.ProjectDir = D:\gitdemo\issue\test\
+build_property.ProjectDir = d:\GitBasicDemo\test\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\gitdemo\issue\test
+build_property.MSBuildProjectDirectory = d:\GitBasicDemo\test
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/gitdemo/issue/test/Views/Home/Index.cshtml]
+[d:/GitBasicDemo/test/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/gitdemo/issue/test/Views/Home/Privacy.cshtml]
+[d:/GitBasicDemo/test/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/gitdemo/issue/test/Views/Shared/Error.cshtml]
+[d:/GitBasicDemo/test/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/gitdemo/issue/test/Views/Shared/_ValidationScriptsPartial.cshtml]
+[d:/GitBasicDemo/test/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/gitdemo/issue/test/Views/_ViewImports.cshtml]
+[d:/GitBasicDemo/test/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/gitdemo/issue/test/Views/_ViewStart.cshtml]
+[d:/GitBasicDemo/test/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/gitdemo/issue/test/Views/Shared/_Layout.cshtml]
+[d:/GitBasicDemo/test/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ykmsxw2c8j
